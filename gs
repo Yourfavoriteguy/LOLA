@@ -1,1 +1,1051 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _uspXBThhhTko = a; end)); return(function(s,...)local d;local t;local r;local a;local f;local p;local e=24915;local n=0;local l={};while n<667 do n=n+1;while n<0x233 and e%0x1098<0x84c do n=n+1 e=(e+411)%40110 local o=n+e if(e%0x2046)<=0x1023 then e=(e-0x177)%0x3d69 while n<0xc2 and e%0x28ca<0x1465 do n=n+1 e=(e+315)%32665 local r=n+e if(e%0x47d8)<0x23ec then e=(e*0x3bf)%0x5b4b local e=18768 if not l[e]then l[e]=0x1 p=tonumber;end elseif e%2~=0 then e=(e+0x118)%0xae0 local e=27740 if not l[e]then l[e]=0x1 d=(not d)and _ENV or d;end else e=(e*0x1a)%0x349b n=n+1 local e=41383 if not l[e]then l[e]=0x1 t=function(l)local e=0x01 local function n(n)e=e+n return l:sub(e-n,e-0x01)end while true do local l=n(0x01)if(l=="\5")then break end local e=f.byte(n(0x01))local e=n(e)if l=="\2"then e=a.aZGHKSlL(e)elseif l=="\3"then e=e~="\0"elseif l=="\6"then d[e]=function(n,e)return s(8,nil,s,e,n)end elseif l=="\4"then e=d[e]elseif l=="\0"then e=d[e][n(f.byte(n(0x01)))];end local n=n(0x08)a[n]=e end end end end end elseif e%2~=0 then e=(e+0x64)%0x1cfc while n<0x250 and e%0xdfa<0x6fd do n=n+1 e=(e-737)%20648 local d=n+e if(e%0x1c10)>0xe08 then e=(e+0x3c4)%0x4af5 local e=81415 if not l[e]then l[e]=0x1 r="\4\8\116\111\110\117\109\98\101\114\97\90\71\72\75\83\108\76\0\6\115\116\114\105\110\103\4\99\104\97\114\117\69\117\68\66\117\122\114\0\6\115\116\114\105\110\103\3\115\117\98\74\121\104\102\81\72\95\107\0\6\115\116\114\105\110\103\4\98\121\116\101\66\77\101\82\90\70\119\102\0\5\116\97\98\108\101\6\99\111\110\99\97\116\112\114\69\81\86\105\108\80\0\5\116\97\98\108\101\6\105\110\115\101\114\116\108\83\114\87\121\88\86\105\5";end elseif e%2~=0 then e=(e*0x2ab)%0x38f1 local e=96648 if not l[e]then l[e]=0x1 end else e=(e+0x135)%0xa196 n=n+1 local e=45647 if not l[e]then l[e]=0x1 end end end else e=(e*0x39)%0x90aa n=n+1 while n<0x1cd and e%0x4728<0x2394 do n=n+1 e=(e*800)%11571 local t=n+e if(e%0x181e)>0xc0f then e=(e*0x134)%0x9593 local e=55526 if not l[e]then l[e]=0x1 d=getfenv and getfenv();end elseif e%2~=0 then e=(e+0x8b)%0x5562 local e=99467 if not l[e]then l[e]=0x1 a={};end else e=(e+0xd)%0x3576 n=n+1 local e=8917 if not l[e]then l[e]=0x1 f=string;end end end end end e=(e-945)%40683 end t(r);local n={};for e=0x0,0xff do local l=a.uEuDBuzr(e);n[e]=l;n[l]=e;end local function o(e)return n[e];end local f=(function(s,t)local r,l=0x01,0x10 local n={{},{},{}}local d=-0x01 local e=0x01 local f=s while true do n[0x03][a.JyhfQH_k(t,e,(function()e=r+e return e-0x01 end)())]=(function()d=d+0x01 return d end)()if d==(0x0f)then d=""l=0x000 break end end local d=#t while e<d+0x01 do n[0x02][l]=a.JyhfQH_k(t,e,(function()e=r+e return e-0x01 end)())l=l+0x01 if l%0x02==0x00 then l=0x00 a.lSrWyXVi(n[0x01],(o((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+f)%0x100)));f=s+f;end end return a.prEQVilP(n[0x01])end);t(f(229,"#ae1+vfhG:I0gq->e "));t(f(100,"*N&?Ly.KZ,l;4gx ,4?xLKxLKxNN;&LKZ#K4&,;gy4x,K.N.g.LxxKZZNr.4d,NP, ?,x!K4&?;;&l y,yb;l4?LZg&g?Lg&.yc.lZNLx0Kl x;LN 44K.;_y&y; Z,&&y4.y;,y,,&,gZ.?GLZKN ;ly  K;;L,;xNZ;Z;gLg 4Z44y4Zy4 ,lZ?4;lK,x4;&&g4Ny.&yL4 3 ?ZN&44NyyHDZ,?Z4NyxjL,,L?4;ZNOlZ&L.gxy ;Ly??xx,Z??o4K..4?K^b;4 KKNLZy&N4 Nml4;;LNxyZ4&44lL?gg,K9yg&y9,.?N6ygyKyXZZyL 4yK.6xL4x4 LZ;&;4Z.& y,.&;;ZLxEZKy&Og .NN,LdxNx4KyN&;ZLgZl,y&l4Zyy ?,K?44KKKsx;_??g,y.l4LlyyxlZZNy;?yK ,,,N&4&yg 4,gN?.4C,N+lxLNx&ZL g;LL4 L,y(?; yZ,D&x?K4y.Z g,KLL4NL,NLl,&Nx.ZL&ZL4x4 NZN?m4H , .,Z?Kg?K&ALZ,&.;;y.N?,N&lZN"));local e=(-7665+(function()local d,e=0,1;(function(n,e)e(e(n,e),e(e,e))end)(function(n,l)if d>237 then return l end d=d+1 e=(e*311)%44946 if(e%1126)>=563 then e=(e-233)%31317 return n(l(n,l)and l(n,n),n(n,n and l)and l(l,n))else return n end return n end,function(l,n)if d>424 then return l end d=d+1 e=(e-604)%30265 if(e%1832)>916 then e=(e*421)%23165 return l(l(n and l,n),n(n and n,n))else return l end return n end)return e;end)())local o=a.quRfehmG or a.tcwrx_iJ;local te=(getfenv)or(function()return _ENV end);local d=2;local j=1;local t=3;local r=4;local function le(u,...)local _=f(e,"A_Q.=Ne3/ns:Vp^X.eQ/.VN%eN/R/Vsd:=_e=_e3N43n/^sNVFennNn4s=:/_n=Xe.3eeXnNs3:3:XX=ce__Qs.3N3=03N/=n/spVs:_X/-V_^V_^X^/XV_We3ss:_V=ppXVTXpt./=3&VN.3n/nn^:VpnppsV_=_n.N=VNVeN/Vn_=_33e/3Vn)^3Qs._==Np3V/XNm:/V3/Vp.{n_NQn.XNQNp3J=13X:Q3VVeVsX}VV_=.nNNeV3V/NsV:_e_3p//nV:1_Q.pe.=Q/nnV:H:XpQ3nnQsu:=V/QVN_3e3pns:=NN/p3Vn}s=XX.NNeNn3:.Vsn:.Vp/V^=Xp_3pV.pN.e^3_n.N=3h3V:NXNCp_N.hX=.:Np3nn/nn:nV_n=:_np:3V=p/^V=./e/psU:np/^:/ps=:=V/pVN3eN/Nn_=_N^e/3Vn*_uQ3Qp==e33V/^nn:Q:Xep/Nn=s/:VQ.N.ep3s/=.NNXNV3Z/=dsR^./.NN:eX3Nn/s_:tnss.:3p=^nXsO/QN.N=/N^3_/.eN3:/Vsc:=.e=_e3aN_^QV=HN=:e^_E3X/_nQ^^_X/I/_V.qn=V=VpXnnN:G:Vpz^==N3:nenn::V_^=X3nnVQV4p=^/.^3Xnes33.p.n=:6:V0N.3.pMVN.3Nn_:8:_p_pnsVVn:NpNpVX&P=33s_:.V=V+:^^=1VQY.=.=NX33_p=.==N/eVV=Xp_3pVX/H==p3X/NN=n::ppnX/Xn_nQ_X=__Xp_eQ=./=V:e^.X=___pQnp/^V5g_=Q/.VNK3/://psX:=V/pV..3n/:sKsXV_//^nXX_s_p.X=Ne/3:_pNn==N/eVV3Xp_^Q_=.4=3_3:nNN=/sV:^QX.:X_X^dX=NNe:/e/ns:eV//n=VpzpQNQp=/YVN.3Nn_:U:_p_pnsVVn:N^spVX%r=eVn_spVn//V3XsV=_s=_N=_=es/_s=:/:pp^s8:VV/__=.=n_/NX/_np:V:ppp^N:/pNV_p:^/XV_133s3V_V^p/p_ l:_V:p/^Vm7NVnV:kVws:ppEMs_:VV/pVXx=p/enX:=:NpepXXNsNV_VV^lX==:/^nNsNVVp_VVXpws:pX3^=X/&V3=nV:_VXnh^s;__/QNX=NXNp/.==s/:^VX^/^pXXQ=Qn.VtV333pnVs=3Z:_^3X:h^b3Qp.X_SNs=:Qp=nN=e/3V&3_.Qs.3N.e=en3XnN=NeQeV/)n=XeQ_=3.3NpeXn=np:3Vs3_/Vn/sVV9Q3=pes/=/pse:_VV3NplnV:+V==MeL3=/=n:3e3Xn.^s^p_3^QQX=Ne=eV/p/^:NV3Vp^^X._.Qe=q=NeQ3V=sn.:.VNn:X/pVtpQV===3Q3N3/_ss:3/nVNVpVNX/Qn.eNsNp/Qnpe3:nV_ppXeV:Q...=pN^e.3nNes/VNVN3n:NsH:=V/Q.Nn3s3pnXe9Vpp3X_:P^X}Q^V.=Nn3Nn_N,:_V3^Q^N 3V/^=XMQnen/_/ns=e/sXp_^p)VzpQp.NE/QN_Ye../=Ve-3=n/nV:2V=pn^V*S_=.sN4NWe=3//^s+:=V/^^MQa=_/QVNQN=e/3V:esN:/VV^tXs%/_p.ie_N/3zsQn=s/:Vpe^=XnEVQhN.=/NV3r/Nn/sVV-^eX3XV_ Q==Q=VeF3=nsV=:aVNp/XND1_=Q/NVNQe=3n/Vs_:=^QpVhQ_3_/QX=93Ne/3Vnls=VNVV^_X=S:_V.k==N/3//)n=s/:Vph^eX/iVQX.==/NV3_/=nssV^d^3^/Xp_dQ=./e/e&/eVQnV:QV=^/^V{(_=.s=NN!e33/sVs;:=V/pVX/m=_nQV=.N=es3VsQ:Q:/V^^udX,/_V.)e=e=eV/Qn=ss:Vpp^=!sQnQ .3=/e33&/=n/sVV3p=^sXV_QQ=.s=Vn}3n//n^:yppp/X/bD==Qn.VNQe=/V/V:N:=psX/X(}3_/=s=)N=e//Vs_s=:sVV^eX=C:_VN9NnN/eX/(nes/V:p(^=Me?VQ..==sNV3_/=:/:pVbp3^/Xp_a.Q./N^es3=/pnVVeV=p/^Vy>QmQ/.XN9en3//^s)p=^^pVX=E=_:QVNXN=3s/nncss:/pV^EX=H/_V._==NVeV/en=ss:VXYX^X/__Qy.N=/es3bnes/sVV3p=X!XV_gQ=./N/ec3n//s.:(Vep/lV_3_=Q^.VN.e=n3/V:QVsV/^=XghV_/QV=zN=/X3Vnes=VTVV^QX=Q/=X.)=:N/3t/Enns/V^p3^=d_RV...==/NV/QnNn/:eVJp:^/XV_ZQe.^=Ve:3=//nV:6V=p/QN02_:Q/=3NueN3/sV:3:=VXpVX=0=_pQVNQese//Nn-:N:/VV^w1eQ__V.s==eXeV/cn=s^^ppG^XX/w^Qd.N=/Np3R/=nssVVCp=^sXV_+Q=.//Ner3://s3:HVNp/WV_e_=QX.VN=e=3p/V:QV_V/^NX6_V_/QV=cee/_3Vnss=psVV^CX= ^=p.L=XN/ep/bnNs/:ppW^=Xs5VQ).==sNV3d/=n/:_V?p:^/;3_+QN./eV3a3=/XnV:eV=pn^V_Q._Q/=NN-e33//VsS:=^xpVX3H=Q_QV=_N=///En;s::/pQ^vXN{/Q^.N==e_eV/=n=s/:VprXpX/_.Qx.p=/Np3m/=:3sVVKp=^nXV_wQ=.:=Ve,3=nenV:*V=pnX.+4_=Q//=V=p/^/p.0NQ/Vn^.X)}=_/3XsXVnpe^cpnu/:npQ^;X=6/3QnX:vVppn^NnNsV:VpK^=NXep/pnn=n3.3?/=n/_^QQ=V=neX/./nsV:NV=s^:3V:^eXN<^Q1./=nN:3./.n33nn_s%:=V/QXNX3n/enl=_N3e/3Vnv_Q_p=.^_==-/_V.+sVVV^RX+f3^Q^:XXNeNn/.=^n::_pwp/XnXsQ_...nNsNX3XnQsV:_V^^/:eXX_X._S3=NeX/nnssQ:_ps^3X^FnQ/Qp=.eN3p=33N/_s.sVVXpX^N2:_roXeeep/Qs.3.Vdp_^_X/_:^:.p=Ne_3s=X3//nsX:=/NsQsVVIp=N=e:3_//s:V;pQppXej.:_Vpp/^VTt/:n3s^::p3^/^p5._nV/pVXhM=_/QV=qe/s/3pn/s=:/VVQneQ3:n{n_:Q::p_/_nss/:Vp<.=Nn3^/NsQ:VNp3=/=n/sV_G=C=n3N_h.e./=Vei/eV-nV:iV=^_^VW}_=.s=XNzeN3/n9s1:=V/XVX.B=_nQV=_N=en3VsQVz:/VX^RXV6/_V.W==e3eV/_n=s::Vp{^=X/_:Qf.==/NV3y/en/sVV=p=^/XV__Q=.n=V3Q/.//nV:)pop/^V;G.==p.VNUe=3//Vs3:=ps^.XmfN_/.Q=kN=e/3VnXs=:/VV^QX=!s_Ve,=XN/eV/Ynes/V_pT_=j=,VQ(.==:NV3:/=ssVeV(pN^/6e_1Q=./NV3/3=//nV:pV=pn^VQ>.sQ/.pN(e=3/nssb:=X=pVX_L=_sQV=_N=e/n:njs=:/Vp^*X=i/_V.U==N/33/ln=s/:pp=^=X/{V/3nN:NV_3_//n/sVV0Q=N=Np/nQN.X=Ve73=p:K:QN.Q.V.Ne=_NQX.VNxe=Vb<5_=Q=CX=_e=DNe_QV=5N=p!X+U=_=Q:<eSXQ.3s3ps33Q:XpNX=XV_p_^=NN3Np3^/.s.:ep#pNXQ)VpsQ.=.NNQ:enn.sp:^VepNX^J:QQQp=VN_e3/ns_e:nV:.V=VpVXQeQp=Qe.../Mn_s_:/p:s:Xp?NQ_.sUXN:3:_V.G==N/eV/0n=:VXVp_^sX/bVQ;/s:3V/^NX_Xpspp3p=^/XV/Q/e:Rspp.^3^p_?_nQ/_Q_:QX=eNp3_/.np:_V_p_^3XsppXek=_/QVn,:Nps^_X^_/:npe^8X=b///nXsN:VpXX=0e__Qs.3^Nt_bVQl.=:XV:^Q^XD:_VQ_.3=pXVQQQ=./=V3QsV//nV:aV^p/^V96Qe.^.VN_e=3n/Vsd:=^/^=X{9N_/Qp=rN/e//^n.s=::VV^NX=0/_V.l=XN/ep/wn3s/:Vph^=XnEVQ}.==/NV3Q/=n/:=Vap=^/Xp_1QN./=V/=3=//nV:KV=p/^V.+Q:Q/.VNRe33/n=sz:=p3pVXz7=_/QV=tN=n//Qnvs=:/p.^>Xst/_V=s==N/eV/+n=s/:V^Q^nX/?pQP.X=/NV3Gn=spsVV?p=X_XV__Q=./e/eK3=//nV:8V=p/ZVQe_=Q/.VN1e=3s/VsO^BV/pVXIce_/Qp=-N=/33Vnvs=:nVV^RX= /_V.r==e.eV/&n=s/:Vpy^=X/jVQz=///Np33/=n/sVK/=/NVeVN3/nsV=p333=//nVQQQeN6=p3./3/p:&:nV/:Q::VX^eXp__Q..pN_e_3_/3ns3pn3s=:/VV..e.3p/sn=/p:Vep/=n=s/:VQiNZNn/NQ_.p=/NV34X:*3_^Q:=3N/Np3./n.nNQeP3=//XQ_X.t=pNneN_NQ^.VNCe=V/^p_Q_n.eNqX_Nw_/QV=8:VpVXaLz_3XQX:TXeeenn.N^s:V_^O^/tn!s._=.=neseX/XsQ:VV_p^X/Ve*XQX=__3NN3Xnnss:QV_^sX3+^_n./.pN.3N/pN33ps.sp:VVpX.X/X3=^NNes/:N:s/:nVn^h5.p.QNQp=neQ.33ps.=NeQeV/xn=_=Q:._=/e:/HnQnp:eV.3_//n/sVV<.:=nen3NQ==s=Ve}3=nsp=:8V=p/Xe1L_=Q/=^e:e=3n/Vs::=V/pV_M_=_/Qp={NNe/3^nb:e::VV^.X=___V.w==N//Q/RnNs/:Xp(^=X/UV.p.==/NV3{/=nssVV5pn^/XV_&QN./=pem3=sVnV:xV=p/^V0v_=N/N.Noe=3/nMs4:3V/pV}.J=_/QV=FN=e/3VVksV:/VV^1X:Y/_p.T==e^eV/%n=s/:Vp+^=?s_^Q(.N=/eQ35/=n/:VVsp=^/XV_/Q=.n=Ve7/s//nV: V=p/^VEr.==^.VN9e=3//VsN:=V/x/XlS=_/Q^=uNNe/3VsXs=:/VV^_X=8/_V.U==N/eV");local n=0;a.wsFuySXD(function()a.xzWUsEvX()n=n+1 end)local function e(l,e)if e then return n end;n=l+n;end local l,n,h=s(0,s,e,_,a.BMeRZFwf);local function f()local n,l=a.BMeRZFwf(_,e(1,3),e(5,6)+2);e(2);return(l*256)+n;end;local c=true;local c=0 local function y()local e=n();local n=n();local t=1;local d=(l(n,1,20)*(2^32))+e;local e=l(n,21,31);local n=((-1)^l(n,32));if(e==0)then if(d==c)then return n*0;else e=1;t=0;end;elseif(e==2047)then return(d==0)and(n*(1/0))or(n*(0/0));end;return a.RuLvUMFy(n,e-1023)*(t+(d/(2^52)));end;local b=n;local function k(n)local l;if(not n)then n=b();if(n==0)then return'';end;end;l=a.JyhfQH_k(_,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+c),#l do e=e..a.JyhfQH_k(l,n,n)end return e;end;local b=#a.XRpAPsYu(p('\49.\48'))~=1 local e=n;local function le(...)return{...},a.UApiEnpx('#',...)end local function ee()local _={};local p={};local e={};local c={p,_,nil,e};local e=n()local o={}for d=1,e do local l=h();local n;if(l==2)then n=(h()~=#{});elseif(l==0)then local e=y();if b and a.OKJSOwiB(a.XRpAPsYu(e),'.(\48+)$')then e=a.hQRKJkMJ(e);end n=e;elseif(l==1)then n=k();end;o[d]=n;end;c[3]=h();for _=1,n()do local e=h();if(l(e,1,1)==0)then local s=l(e,2,3);local a=l(e,4,6);local e={f(),f(),nil,nil};if(s==0)then e[t]=f();e[r]=f();elseif(s==#{1})then e[t]=n();elseif(s==u[2])then e[t]=n()-(2^16)elseif(s==u[3])then e[t]=n()-(2^16)e[r]=f();end;if(l(a,1,1)==1)then e[d]=o[e[d]]end if(l(a,2,2)==1)then e[t]=o[e[t]]end if(l(a,3,3)==1)then e[r]=o[e[r]]end p[_]=e;end end;for e=1,n()do _[e-(#{1})]=ee();end;return c;end;local function ne(l,e,n)local d=e;local d=n;return p(a.OKJSOwiB(a.OKJSOwiB(({a.wsFuySXD(l)})[2],e),n))end local function y(b,_,h)local function de(...)local f,k,u,ne,c,n,p,ee,m,z,g,l;local e=0;while-1<e do if e>=3 then if 4>=e then if 4~=e then ee={};m={...};else z=a.UApiEnpx('#',...)-1;g={};end else if e~=2 then for n=21,93 do if 6>e then l=s(7);break;end;e=-2;break;end;else e=-2;end end else if e>0 then if e~=0 then for l=26,70 do if 2~=e then u=s(6,4,3,81,b);c=le ne=0;break;end;n=-41;p=-1;break;end;else n=-41;p=-1;end else f=s(6,53,1,54,b);k=s(6,70,2,72,b);end end e=e+1;end;for e=0,z do if(e>=u)then ee[e-u]=m[e+1];else l[e]=m[e+1];end;end;local e=z-u+1 local e;local s;local function u(...)while true do end end while true do if n<-40 then n=n+42 end e=f[n];s=e[j];if s>29 then if 45>s then if s<=36 then if 32<s then if 34<s then if 36==s then l[e[d]]=_[e[t]];else l[e[d]]();end else if 33==s then local n=e[d]local d,e=c(l[n](o(l,n+1,e[t])))p=e+n-1 local e=0;for n=n,p do e=e+1;l[n]=d[e];end;else n=e[t];end end else if 31>s then local e=e[d]l[e](l[e+1])else if 32~=s then do return end;else local e=e[d]l[e]=l[e]()end end end else if 41>s then if 38<s then if 37<=s then for a=39,76 do if s~=40 then local n=e[d]l[n]=l[n](o(l,n+1,e[t]))break;end;local a,j,u,b,y,m,k,s,z,g,_;for s=0,6 do if 2>=s then if 0<s then if-3~=s then for o=31,84 do if s<2 then a=e[d];j=l[e[t]];l[a+1]=j;l[a]=j[e[r]];n=n+1;e=f[n];break;end;s=0;while s>-1 do if 3>s then if s<1 then u=e;else if s<2 then b=d;else y=t;end end else if 4<s then if s~=6 then l(k,m);else s=-2;end else if s~=0 then for e=20,95 do if s~=4 then m=u[y];break;end;k=u[b];break;end;else k=u[b];end end end s=s+1 end n=n+1;e=f[n];break;end;else s=0;while s>-1 do if 3>s then if s<1 then u=e;else if s<2 then b=d;else y=t;end end else if 4<s then if s~=6 then l(k,m);else s=-2;end else if s~=0 then for e=20,95 do if s~=4 then m=u[y];break;end;k=u[b];break;end;else k=u[b];end end end s=s+1 end n=n+1;e=f[n];end else l[e[d]]=h[e[t]];n=n+1;e=f[n];end else if 5>s then if s>=2 then repeat if s~=4 then a=e[d]z,g=c(l[a](o(l,a+1,e[t])))p=g+a-1 _=0;for e=a,p do _=_+1;l[e]=z[_];end;n=n+1;e=f[n];break;end;a=e[d]l[a]=l[a](o(l,a+1,p))n=n+1;e=f[n];until true;else a=e[d]z,g=c(l[a](o(l,a+1,e[t])))p=g+a-1 _=0;for e=a,p do _=_+1;l[e]=z[_];end;n=n+1;e=f[n];end else if s<6 then a=e[d]l[a]=l[a]()n=n+1;e=f[n];else l[e[d]]=l[e[t]][e[r]];end end end end break;end;else local n=e[d]l[n]=l[n](o(l,n+1,e[t]))end else if 35<s then repeat if 38~=s then local o;for s=0,6 do if 3<=s then if 4>=s then if 2<s then for o=45,71 do if s~=3 then l[e[d]][e[t]]=e[r];n=n+1;e=f[n];break;end;l[e[d]][e[t]]=e[r];n=n+1;e=f[n];break;end;else l[e[d]][e[t]]=e[r];n=n+1;e=f[n];end else if 2<=s then repeat if 6~=s then l[e[d]]=h[e[t]];n=n+1;e=f[n];break;end;l[e[d]][e[t]]=l[e[r]];until true;else l[e[d]][e[t]]=l[e[r]];end end else if 0<s then if s>=-3 then for r=20,83 do if 1~=s then o=e[d]l[o]=l[o](l[o+1])n=n+1;e=f[n];break;end;l(e[d],e[t]);n=n+1;e=f[n];break;end;else l(e[d],e[t]);n=n+1;e=f[n];end else l[e[d]]=l[e[t]][e[r]];n=n+1;e=f[n];end end end break;end;local d=e[d];local n=l[e[t]];l[d+1]=n;l[d]=n[e[r]];until true;else local o;for s=0,6 do if 3<=s then if 4>=s then if 2<s then for o=45,71 do if s~=3 then l[e[d]][e[t]]=e[r];n=n+1;e=f[n];break;end;l[e[d]][e[t]]=e[r];n=n+1;e=f[n];break;end;else l[e[d]][e[t]]=e[r];n=n+1;e=f[n];end else if 2<=s then repeat if 6~=s then l[e[d]]=h[e[t]];n=n+1;e=f[n];break;end;l[e[d]][e[t]]=l[e[r]];until true;else l[e[d]][e[t]]=l[e[r]];end end else if 0<s then if s>=-3 then for r=20,83 do if 1~=s then o=e[d]l[o]=l[o](l[o+1])n=n+1;e=f[n];break;end;l(e[d],e[t]);n=n+1;e=f[n];break;end;else l(e[d],e[t]);n=n+1;e=f[n];end else l[e[d]]=l[e[t]][e[r]];n=n+1;e=f[n];end end end end end else if s>=43 then if 39~=s then repeat if 43<s then local e=e[d]l[e](l[e+1])break;end;local s,_,b,k,u;for a=0,6 do if a>2 then if a>4 then if a>5 then l[e[d]]();else s=e[d]l[s]=l[s](o(l,s+1,p))n=n+1;e=f[n];end else if 2<=a then repeat if 4>a then l(e[d],e[t]);n=n+1;e=f[n];break;end;s=e[d]b,k=c(l[s](o(l,s+1,e[t])))p=k+s-1 u=0;for e=s,p do u=u+1;l[e]=b[u];end;n=n+1;e=f[n];until true;else l(e[d],e[t]);n=n+1;e=f[n];end end else if a>=1 then if a~=-2 then for o=48,74 do if a~=1 then s=e[d];_=l[e[t]];l[s+1]=_;l[s]=_[e[r]];n=n+1;e=f[n];break;end;l[e[d]]=h[e[t]];n=n+1;e=f[n];break;end;else s=e[d];_=l[e[t]];l[s+1]=_;l[s]=_[e[r]];n=n+1;e=f[n];end else l[e[d]]=h[e[t]];n=n+1;e=f[n];end end end until true;else local e=e[d]l[e](l[e+1])end else if 38<s then for n=37,55 do if 41<s then l[e[d]]=_[e[t]];break;end;l[e[d]][e[t]]=e[r];break;end;else l[e[d]][e[t]]=e[r];end end end end else if s>=52 then if 56>s then if s>=54 then if 51<=s then for n=10,70 do if 54<s then local n=e[d]l[n](o(l,n+1,e[t]))break;end;local n=e[d]local d,e=c(l[n](o(l,n+1,e[t])))p=e+n-1 local e=0;for n=n,p do e=e+1;l[n]=d[e];end;break;end;else local n=e[d]local d,e=c(l[n](o(l,n+1,e[t])))p=e+n-1 local e=0;for n=n,p do e=e+1;l[n]=d[e];end;end else if 51~=s then repeat if s>52 then for s=0,6 do if s>=3 then if s<=4 then if s~=3 then l[e[d]]=h[e[t]];n=n+1;e=f[n];else l[e[d]]=_[e[t]];n=n+1;e=f[n];end else if 1~=s then repeat if 5~=s then l[e[d]]=_[e[t]];break;end;l[e[d]][e[t]]=l[e[r]];n=n+1;e=f[n];until true;else l[e[d]][e[t]]=l[e[r]];n=n+1;e=f[n];end end else if 1>s then l[e[d]][e[t]]=e[r];n=n+1;e=f[n];else if-1<=s then repeat if s~=1 then l[e[d]][e[t]]=e[r];n=n+1;e=f[n];break;end;l[e[d]]=_[e[t]];n=n+1;e=f[n];until true;else l[e[d]]=_[e[t]];n=n+1;e=f[n];end end end end break;end;l[e[d]][e[t]]=l[e[r]];until true;else l[e[d]][e[t]]=l[e[r]];end end else if 57>=s then if 57~=s then local s,k,b,u,_;for a=0,6 do if a<3 then if 1<=a then if a>=0 then for o=33,54 do if 2~=a then l[e[d]]=h[e[t]];n=n+1;e=f[n];break;end;s=e[d];k=l[e[t]];l[s+1]=k;l[s]=k[e[r]];n=n+1;e=f[n];break;end;else l[e[d]]=h[e[t]];n=n+1;e=f[n];end else l[e[d]]=h[e[t]];n=n+1;e=f[n];end else if a<5 then if 2<a then repeat if 4>a then l(e[d],e[t]);n=n+1;e=f[n];break;end;s=e[d]b,u=c(l[s](o(l,s+1,e[t])))p=u+s-1 _=0;for e=s,p do _=_+1;l[e]=b[_];end;n=n+1;e=f[n];until true;else s=e[d]b,u=c(l[s](o(l,s+1,e[t])))p=u+s-1 _=0;for e=s,p do _=_+1;l[e]=b[_];end;n=n+1;e=f[n];end else if a>=1 then for t=34,56 do if 5<a then l[e[d]]();break;end;s=e[d]l[s]=l[s](o(l,s+1,p))n=n+1;e=f[n];break;end;else l[e[d]]();end end end end else local s,h;for a=0,3 do if a<=1 then if a~=0 then s=e[d];h=l[e[t]];l[s+1]=h;l[s]=h[e[r]];n=n+1;e=f[n];else s=e[d]l[s](o(l,s+1,e[t]))n=n+1;e=f[n];end else if a~=-1 then repeat if a~=3 then l(e[d],e[t]);n=n+1;e=f[n];break;end;l(e[d],e[t]);until true;else l(e[d],e[t]);n=n+1;e=f[n];end end end end else if s>56 then for n=21,71 do if s~=59 then local f,a,s,r,o;local n=0;while n>-1 do if 2<n then if 5<=n then if n~=1 then repeat if n>5 then n=-2;break;end;l(o,r);until true;else l(o,r);end else if 2<n then repeat if 4~=n then r=f[s];break;end;o=f[a];until true;else r=f[s];end end else if n>0 then if n>=-3 then repeat if 1<n then s=t;break;end;a=d;until true;else s=t;end else f=e;end end n=n+1 end break;end;local n=e[d]l[n](o(l,n+1,e[t]))break;end;else local f,a,s,r,o;local n=0;while n>-1 do if 2<n then if 5<=n then if n~=1 then repeat if n>5 then n=-2;break;end;l(o,r);until true;else l(o,r);end else if 2<n then repeat if 4~=n then r=f[s];break;end;o=f[a];until true;else r=f[s];end end else if n>0 then if n>=-3 then repeat if 1<n then s=t;break;end;a=d;until true;else s=t;end else f=e;end end n=n+1 end end end end else if s>=48 then if s<=49 then if s~=49 then local e=e[d]l[e]=l[e](l[e+1])else local p=k[e[t]];local o;local s={};o=a.s_yfBjfK({},{__index=function(n,e)local e=s[e];return e[1][e[2]];end,__newindex=function(l,e,n)local e=s[e]e[1][e[2]]=n;end;});for d=1,e[r]do n=n+1;local e=f[n];if e[j]==2 then s[d-1]={l,e[t]};else s[d-1]={_,e[t]};end;g[#g+1]=s;end;l[e[d]]=y(p,o,h);end else if 46<s then for o=47,64 do if s>50 then local s,o;for a=0,2 do if a>=1 then if a>1 then l(e[d],e[t]);else l(e[d],e[t]);n=n+1;e=f[n];end else s=e[d];o=l[e[t]];l[s+1]=o;l[s]=o[e[r]];n=n+1;e=f[n];end end break;end;local p=k[e[t]];local o;local s={};o=a.s_yfBjfK({},{__index=function(n,e)local e=s[e];return e[1][e[2]];end,__newindex=function(l,e,n)local e=s[e]e[1][e[2]]=n;end;});for d=1,e[r]do n=n+1;local e=f[n];if e[j]==2 then s[d-1]={l,e[t]};else s[d-1]={_,e[t]};end;g[#g+1]=s;end;l[e[d]]=y(p,o,h);break;end;else local s,o;for a=0,2 do if a>=1 then if a>1 then l(e[d],e[t]);else l(e[d],e[t]);n=n+1;e=f[n];end else s=e[d];o=l[e[t]];l[s+1]=o;l[s]=o[e[r]];n=n+1;e=f[n];end end end end else if s<=45 then h[e[t]]=l[e[d]];else if 42~=s then repeat if s~=47 then l[e[d]]=(e[t]~=0);break;end;l[e[d]][e[t]]=l[e[r]];until true;else l[e[d]][e[t]]=l[e[r]];end end end end end else if 14<s then if 22<=s then if s<26 then if 24>s then if 18<=s then for a=38,59 do if s>22 then l[e[d]][e[t]]=e[r];n=n+1;e=f[n];l[e[d]]=_[e[t]];n=n+1;e=f[n];l[e[d]][e[t]]=e[r];n=n+1;e=f[n];l[e[d]]=_[e[t]];n=n+1;e=f[n];l[e[d]]=h[e[t]];n=n+1;e=f[n];l[e[d]][e[t]]=l[e[r]];n=n+1;e=f[n];l[e[d]]=_[e[t]];break;end;local e=e[d]l[e]=l[e](o(l,e+1,p))break;end;else l[e[d]][e[t]]=e[r];n=n+1;e=f[n];l[e[d]]=_[e[t]];n=n+1;e=f[n];l[e[d]][e[t]]=e[r];n=n+1;e=f[n];l[e[d]]=_[e[t]];n=n+1;e=f[n];l[e[d]]=h[e[t]];n=n+1;e=f[n];l[e[d]][e[t]]=l[e[r]];n=n+1;e=f[n];l[e[d]]=_[e[t]];end else if 21<s then for f=41,81 do if s>24 then l[e[d]]();break;end;n=e[t];break;end;else l[e[d]]();end end else if s>=28 then if s>=25 then repeat if 29>s then local s,a;l[e[d]]=h[e[t]];n=n+1;e=f[n];l[e[d]][e[t]]=l[e[r]];n=n+1;e=f[n];s=e[d];a=l[e[t]];l[s+1]=a;l[s]=a[e[r]];n=n+1;e=f[n];s=e[d]l[s](l[s+1])n=n+1;e=f[n];s=e[d];a=l[e[t]];l[s+1]=a;l[s]=a[e[r]];n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];s=e[d]l[s]=l[s](o(l,s+1,e[t]))break;end;local s,_,b,u,a;l[e[d]]=h[e[t]];n=n+1;e=f[n];l[e[d]]=h[e[t]];n=n+1;e=f[n];s=e[d];_=l[e[t]];l[s+1]=_;l[s]=_[e[r]];n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];s=e[d]b,u=c(l[s](o(l,s+1,e[t])))p=u+s-1 a=0;for e=s,p do a=a+1;l[e]=b[a];end;n=n+1;e=f[n];s=e[d]l[s]=l[s](o(l,s+1,p))n=n+1;e=f[n];l[e[d]]();until true;else local s,a;l[e[d]]=h[e[t]];n=n+1;e=f[n];l[e[d]][e[t]]=l[e[r]];n=n+1;e=f[n];s=e[d];a=l[e[t]];l[s+1]=a;l[s]=a[e[r]];n=n+1;e=f[n];s=e[d]l[s](l[s+1])n=n+1;e=f[n];s=e[d];a=l[e[t]];l[s+1]=a;l[s]=a[e[r]];n=n+1;e=f[n];l(e[d],e[t]);n=n+1;e=f[n];s=e[d]l[s]=l[s](o(l,s+1,e[t]))end else if 23~=s then repeat if 27~=s then l[e[d]]=y(k[e[t]],nil,h);break;end;local n=e[d]l[n]=l[n](o(l,n+1,e[t]))until true;else l[e[d]]=y(k[e[t]],nil,h);end end end else if s>17 then if s>19 then if 17~=s then for a=27,61 do if 21~=s then h[e[t]]=l[e[d]];break;end;local a,b,h,c,u,_,p,s;for s=0,3 do if 2>s then if-3~=s then for h=35,77 do if 0~=s then a=e[d];b=l[e[t]];l[a+1]=b;l[a]=b[e[r]];n=n+1;e=f[n];break;end;a=e[d]l[a](o(l,a+1,e[t]))n=n+1;e=f[n];break;end;else a=e[d]l[a](o(l,a+1,e[t]))n=n+1;e=f[n];end else if 1<s then for r=37,68 do if 3~=s then s=0;while s>-1 do if s<=2 then if s<=0 then h=e;else if 2>s then c=d;else u=t;end end else if 5<=s then if s>=3 then for e=49,84 do if s~=5 then s=-2;break;end;l(p,_);break;end;else l(p,_);end else if s>=1 then for e=49,66 do if 4>s then _=h[u];break;end;p=h[c];break;end;else p=h[c];end end end s=s+1 end n=n+1;e=f[n];break;end;l(e[d],e[t]);break;end;else s=0;while s>-1 do if s<=2 then if s<=0 then h=e;else if 2>s then c=d;else u=t;end end else if 5<=s then if s>=3 then for e=49,84 do if s~=5 then s=-2;break;end;l(p,_);break;end;else l(p,_);end else if s>=1 then for e=49,66 do if 4>s then _=h[u];break;end;p=h[c];break;end;else p=h[c];end end end s=s+1 end n=n+1;e=f[n];end end end break;end;else h[e[t]]=l[e[d]];end else if 14<s then for f=43,67 do if s~=18 then if(l[e[d]]~=e[r])then n=n+1;else n=e[t];end;break;end;local e=e[d]l[e]=l[e](o(l,e+1,p))break;end;else local e=e[d]l[e]=l[e](o(l,e+1,p))end end else if s>15 then if 17==s then local e=e[d]l[e]=l[e]()else for s=0,3 do if s>=2 then if s>-1 then for o=19,75 do if 2<s then if(l[e[d]]~=e[r])then n=n+1;else n=e[t];end;break;end;l[e[d]]=h[e[t]];n=n+1;e=f[n];break;end;else if(l[e[d]]~=e[r])then n=n+1;else n=e[t];end;end else if-2<s then for r=32,69 do if s~=1 then l[e[d]]=(e[t]~=0);n=n+1;e=f[n];break;end;h[e[t]]=l[e[d]];n=n+1;e=f[n];break;end;else l[e[d]]=(e[t]~=0);n=n+1;e=f[n];end end end end else l[e[d]]=h[e[t]];end end end else if 7<=s then if 11>s then if s<9 then if 5<s then for n=26,73 do if 8~=s then l[e[d]]=l[e[t]][e[r]];break;end;local e=e[d]l[e]=l[e](l[e+1])break;end;else l[e[d]]=l[e[t]][e[r]];end else if 9==s then local a;for s=0,6 do if 2<s then if s<=4 then if 0<s then for o=23,65 do if s>3 then l(e[d],e[t]);n=n+1;e=f[n];break;end;l[e[d]]=l[e[t]][e[r]];n=n+1;e=f[n];break;end;else l(e[d],e[t]);n=n+1;e=f[n];end else if s>=4 then repeat if s~=5 then l[e[d]][e[t]]=e[r];break;end;a=e[d]l[a]=l[a](l[a+1])n=n+1;e=f[n];until true;else l[e[d]][e[t]]=e[r];end end else if s>0 then if 0~=s then for r=47,68 do if s>1 then l[e[d]]=h[e[t]];n=n+1;e=f[n];break;end;a=e[d]l[a]=l[a](o(l,a+1,e[t]))n=n+1;e=f[n];break;end;else l[e[d]]=h[e[t]];n=n+1;e=f[n];end else l(e[d],e[t]);n=n+1;e=f[n];end end end else l[e[d]]=(e[t]~=0);end end else if s<13 then if 10~=s then repeat if s~=11 then local n=e[d];local d=l[e[t]];l[n+1]=d;l[n]=d[e[r]];break;end;l[e[d]]=h[e[t]];until true;else local d=e[d];local n=l[e[t]];l[d+1]=n;l[d]=n[e[r]];end else if s>10 then repeat if s~=13 then l[e[d]]=l[e[t]][e[r]];break;end;local a,_,h,p,c,u,b,s;for s=0,6 do if s<3 then if s>0 then if 0<=s then repeat if s~=2 then a=e[d]l[a]=l[a](o(l,a+1,e[t]))n=n+1;e=f[n];break;end;a=e[d];_=l[e[t]];l[a+1]=_;l[a]=_[e[r]];n=n+1;e=f[n];until true;else a=e[d];_=l[e[t]];l[a+1]=_;l[a]=_[e[r]];n=n+1;e=f[n];end else l(e[d],e[t]);n=n+1;e=f[n];end else if 5>s then if s~=-1 then for r=44,55 do if s~=4 then s=0;while s>-1 do if 3<=s then if s<5 then if 1<s then for e=28,69 do if s<4 then u=h[c];break;end;b=h[p];break;end;else b=h[p];end else if s>=1 then repeat if 5<s then s=-2;break;end;l(b,u);until true;else s=-2;end end else if 0>=s then h=e;else if s<2 then p=d;else c=t;end end end s=s+1 end n=n+1;e=f[n];break;end;a=e[d]l[a]=l[a](o(l,a+1,e[t]))n=n+1;e=f[n];break;end;else a=e[d]l[a]=l[a](o(l,a+1,e[t]))n=n+1;e=f[n];end else if 2<s then repeat if 6>s then a=e[d];_=l[e[t]];l[a+1]=_;l[a]=_[e[r]];n=n+1;e=f[n];break;end;s=0;while s>-1 do if 3>s then if s>0 then if 0<=s then for e=16,86 do if 1<s then c=t;break;end;p=d;break;end;else p=d;end else h=e;end else if s>=5 then if s~=3 then repeat if 5~=s then s=-2;break;end;l(b,u);until true;else s=-2;end else if s>-1 then repeat if 3~=s then b=h[p];break;end;u=h[c];until true;else u=h[c];end end end s=s+1 end until true;else s=0;while s>-1 do if 3>s then if s>0 then if 0<=s then for e=16,86 do if 1<s then c=t;break;end;p=d;break;end;else p=d;end else h=e;end else if s>=5 then if s~=3 then repeat if 5~=s then s=-2;break;end;l(b,u);until true;else s=-2;end else if s>-1 then repeat if 3~=s then b=h[p];break;end;u=h[c];until true;else u=h[c];end end end s=s+1 end end end end end until true;else l[e[d]]=l[e[t]][e[r]];end end end else if 3<=s then if s<=4 then if 3<s then do return end;else l(e[d],e[t]);end else if s>=1 then repeat if 6>s then local s,h;for a=0,6 do if a<=2 then if a>0 then if a~=0 then for o=35,55 do if a~=1 then l(e[d],e[t]);n=n+1;e=f[n];break;end;s=e[d];h=l[e[t]];l[s+1]=h;l[s]=h[e[r]];n=n+1;e=f[n];break;end;else s=e[d];h=l[e[t]];l[s+1]=h;l[s]=h[e[r]];n=n+1;e=f[n];end else s=e[d]l[s](o(l,s+1,e[t]))n=n+1;e=f[n];end else if 4>=a then if 1~=a then for p=33,66 do if a~=4 then s=e[d]l[s](o(l,s+1,e[t]))n=n+1;e=f[n];break;end;s=e[d];h=l[e[t]];l[s+1]=h;l[s]=h[e[r]];n=n+1;e=f[n];break;end;else s=e[d]l[s](o(l,s+1,e[t]))n=n+1;e=f[n];end else if 2<=a then repeat if 6>a then l(e[d],e[t]);n=n+1;e=f[n];break;end;s=e[d]l[s](o(l,s+1,e[t]))until true;else l(e[d],e[t]);n=n+1;e=f[n];end end end end break;end;l[e[d]]=y(k[e[t]],nil,h);until true;else local s,a;for h=0,6 do if h<=2 then if h>0 then if h~=0 then for o=35,55 do if h~=1 then l(e[d],e[t]);n=n+1;e=f[n];break;end;s=e[d];a=l[e[t]];l[s+1]=a;l[s]=a[e[r]];n=n+1;e=f[n];break;end;else s=e[d];a=l[e[t]];l[s+1]=a;l[s]=a[e[r]];n=n+1;e=f[n];end else s=e[d]l[s](o(l,s+1,e[t]))n=n+1;e=f[n];end else if 4>=h then if 1~=h then for p=33,66 do if h~=4 then s=e[d]l[s](o(l,s+1,e[t]))n=n+1;e=f[n];break;end;s=e[d];a=l[e[t]];l[s+1]=a;l[s]=a[e[r]];n=n+1;e=f[n];break;end;else s=e[d]l[s](o(l,s+1,e[t]))n=n+1;e=f[n];end else if 2<=h then repeat if 6>h then l(e[d],e[t]);n=n+1;e=f[n];break;end;s=e[d]l[s](o(l,s+1,e[t]))until true;else l(e[d],e[t]);n=n+1;e=f[n];end end end end end end else if 1<=s then if s~=2 then l[e[d]][e[t]]=e[r];else l[e[d]]=l[e[t]];end else if(l[e[d]]~=e[r])then n=n+1;else n=e[t];end;end end end end end n=1+n;end;end;return de end;local t=0xff;local h={};local f=(1);local d='';(function(n)local l=n local s=0x00 local e=0x00 l={(function(r)if s>0x2b then return r end s=s+1 e=(e+0xe78-r)%0x15 return(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x8c);h[f]=te();f=f+t;end return true end)'njQML'and l[0x2](0x3d3+r))or(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x12);d='\37';t={function()t()end};d=d..'\100\43';end return true end)'hkbOU'and l[0x3](r+0x3a8))or(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xac);end return true end)'Arphm'and l[0x1](r+0x330))or r end),(function(r)if s>0x29 then return r end s=s+1 e=(e+0xe58-r)%0x3d return(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x7b);end return true end)'YdlyF'and l[0x2](0x1ce+r))or(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x6);end return true end)'SalTu'and l[0x3](r+0x358))or(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x3d);t[2]=(t[2]*(ne(function()h()end,o(d))-ne(t[1],o(d))))+1;h[f]={};t=t[2];f=f+t;end return true end)'KpDId'and l[0x1](r+0x38a))or r end),(function(r)if s>0x28 then return r end s=s+1 e=(e+0x7e2-r)%0x3d return(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x85);end return true end)'_eOdf'and l[0x1](0x177+r))or(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xd6);end return true end)'WiSfE'and l[0x3](r+0x262))or(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xd7);d={d..'\58 a',d};h[f]=ee();f=f+((not a.aRVzVSXD)and 1 or 0);d[1]='\58'..d[1];t[2]=0xff;end return true end)'xPCwS'and l[0x2](r+0x265))or r end)}l[0x1](0x11fb)end){};local e=y(o(h));return e(...);end return le((function()local n={}local e=0x01;local l;if a.aRVzVSXD then l=a.aRVzVSXD(le)else l=''end if a.OKJSOwiB(l,a.DtrZtCTb)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(n,e,l,t,d,f)local f;if 3>=n then if 1>=n then if-4<=n then for f=13,67 do if n>0 then do return function(l,e,n)if n then local e=(l/2^(e-1))%2^((n-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(l%(e+e)>=e)and 1 or 0;end;end;end;break;end;do return e(1),e(4,d,t,l,e),e(5,d,t,l)end;break;end;else do return e(1),e(4,d,t,l,e),e(5,d,t,l)end;end else if-1~=n then repeat if 3>n then do return 16777216,65536,256 end;break;end;do return e(1),e(4,d,t,l,e),e(5,d,t,l)end;until true;else do return 16777216,65536,256 end;end end else if 6<=n then if 6<n then if n~=3 then for e=33,79 do if n~=7 then do return l(n,nil,l);end break;end;do return setmetatable({},{['__\99\97\108\108']=function(e,t,d,l,n)if n then return e[n]elseif l then return e else e[t]=d end end})end break;end;else do return setmetatable({},{['__\99\97\108\108']=function(e,t,l,d,n)if n then return e[n]elseif d then return e else e[t]=l end end})end end else do return d[l]end;end else if n<5 then local n=t;local d,t,s=d(2);do return function()local l,e,r,f=e(l,n(n,n),n(n,n)+3);n(4);return(f*d)+(r*t)+(e*s)+l;end;end;else local n=t;do return function()local e=e(l,n(n,n),n(n,n));n(1);return e;end;end;end end end end),...)
+--Move & Ultimate Names
+
+-- Create a TextLabel in the ScreenGui
+local screenGui = Instance.new("ScreenGui")
+local textLabel = Instance.new("TextLabel")
+
+-- Set up the properties of the TextLabel
+textLabel.Parent = screenGui
+textLabel.Text = "KJ FROM TEMU BUT BETTER"
+textLabel.TextColor3 = Color3.new(1, 1, 1) -- White text
+textLabel.BackgroundTransparency = 1 -- No background
+textLabel.Size = UDim2.new(1, 0, 1, 0) -- Full screen size
+textLabel.Position = UDim2.new(0.5, 0, 0.5, 0) -- Centered
+textLabel.AnchorPoint = Vector2.new(0.5, 0.5) -- Center the anchor point
+textLabel.Font = Enum.Font.SourceSans -- Choose a font
+textLabel.TextScaled = true -- Auto scale the text size
+
+-- Set the GUI to the player's screen
+screenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+
+-- Wait for 1 second
+wait(1)
+
+-- Fade out the text over time
+local fadeTime = 1 -- The duration of the fade-out in seconds
+local fadeOut = 0 -- Initial fade amount
+
+while fadeOut < fadeTime do
+    wait(0.1) -- Update every 0.1 second
+    fadeOut = fadeOut + 0.1
+    textLabel.TextTransparency = fadeOut / fadeTime -- Increase transparency over time
+end
+
+-- Fully hide the text when fade-out is complete
+textLabel:Destroy()
+
+
+local player = game.Players.LocalPlayer
+
+local playerGui = player.PlayerGui
+
+local hotbar = playerGui:FindFirstChild("Hotbar")
+
+local backpack = hotbar:FindFirstChild("Backpack")
+
+local hotbarFrame = backpack:FindFirstChild("Hotbar")
+
+local baseButton = hotbarFrame:FindFirstChild("1").Base
+
+local ToolName = baseButton.ToolName
+
+
+ToolName.Text = "Signature Kick"
+
+
+local player = game.Players.LocalPlayer
+
+local playerGui = player.PlayerGui
+
+local hotbar = playerGui:FindFirstChild("Hotbar")
+
+local backpack = hotbar:FindFirstChild("Backpack")
+
+local hotbarFrame = backpack:FindFirstChild("Hotbar")
+
+local baseButton = hotbarFrame:FindFirstChild("2").Base
+
+local ToolName = baseButton.ToolName
+
+
+ToolName.Text = "Ravage"
+
+
+local player = game.Players.LocalPlayer
+
+local playerGui = player.PlayerGui
+
+local hotbar = playerGui:FindFirstChild("Hotbar")
+
+local backpack = hotbar:FindFirstChild("Backpack")
+
+local hotbarFrame = backpack:FindFirstChild("Hotbar")
+
+local baseButton = hotbarFrame:FindFirstChild("3").Base
+
+local ToolName = baseButton.ToolName
+
+
+ToolName.Text = "Swift sweep"
+
+
+local player = game.Players.LocalPlayer
+
+local playerGui = player.PlayerGui
+
+local hotbar = playerGui:FindFirstChild("Hotbar")
+
+local backpack = hotbar:FindFirstChild("Backpack")
+
+local hotbarFrame = backpack:FindFirstChild("Hotbar")
+
+local baseButton = hotbarFrame:FindFirstChild("4").Base
+
+local ToolName = baseButton.ToolName
+
+
+ToolName.Text = "Collateral Ruin"
+
+
+local Players = game:GetService("Players")
+
+local player = Players.LocalPlayer
+
+local playerGui = player:WaitForChild("PlayerGui")
+
+
+local function findGuiAndSetText()
+
+    local screenGui = playerGui:FindFirstChild("ScreenGui")
+
+    if screenGui then
+
+        local magicHealthFrame = screenGui:FindFirstChild("MagicHealth")
+
+        if magicHealthFrame then
+
+            local textLabel = magicHealthFrame:FindFirstChild("TextLabel")
+
+            if textLabel then
+
+                textLabel.Text = "20 TEMU SERIES"
+
+            end
+
+        end
+
+    end
+
+end
+
+
+playerGui.DescendantAdded:Connect(findGuiAndSetText)
+
+findGuiAndSetText()
+
+--[[Animations]]
+
+--[[Move 1]]
+
+local animationId = 10468665991
+
+
+local player = game.Players.LocalPlayer
+
+local character = player.Character or player.CharacterAdded:Wait()
+
+local humanoid = character:WaitForChild("Humanoid")
+
+
+local function onAnimationPlayed(animationTrack)
+
+    if animationTrack.Animation.AnimationId == "rbxassetid://" .. animationId then
+
+
+local p = game.Players.LocalPlayer
+
+local Humanoid = p.Character:WaitForChild("Humanoid")
+
+
+for _, animTrack in pairs(Humanoid:GetPlayingAnimationTracks()) do
+
+    animTrack:Stop()
+
+end
+
+
+local AnimAnim = Instance.new("Animation")
+
+AnimAnim.AnimationId = "rbxassetid://17838619895"
+
+local Anim = Humanoid:LoadAnimation(AnimAnim)
+
+
+local startTime = 0
+
+
+Anim:Play()
+
+Anim:AdjustSpeed(0.1)
+
+Anim.TimePosition = startTime
+
+Anim:AdjustSpeed(1.5)
+
+local sound = Instance.new("Sound")
+sound.SoundId = "rbxassetid://78267113234809" -- ur sound id
+sound.Volume = 5
+sound.Parent = workspace
+sound:Play()
+
+
+local vfx = game.ReplicatedStorage.Resources.KJEffects["RUNAROUNDWIND"].RUNAROUNDWIND:Clone()
+vfx.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(vfx:GetChildren()) do
+        if child:IsA("ParticleEmitter") then
+child:Emit(3)
+        end
+    end
+
+
+    end
+
+end
+
+--[[END OF MOVE 1 ANIM]]
+
+--[[Move 2]]
+
+
+humanoid.AnimationPlayed:Connect(onAnimationPlayed)
+
+
+local animationId = 10466974800
+
+
+local player = game.Players.LocalPlayer
+
+local character = player.Character or player.CharacterAdded:Wait()
+
+local humanoid = character:WaitForChild("Humanoid")
+
+
+local function onAnimationPlayed(animationTrack)
+
+    if animationTrack.Animation.AnimationId == "rbxassetid://" .. animationId then
+
+
+local p = game.Players.LocalPlayer
+
+local Humanoid = p.Character:WaitForChild("Humanoid")
+
+
+for _, animTrack in pairs(Humanoid:GetPlayingAnimationTracks()) do
+
+    animTrack:Stop()
+
+end
+
+
+local AnimAnim = Instance.new("Animation")
+
+AnimAnim.AnimationId = "rbxassetid://14046756619"
+
+local Anim = Humanoid:LoadAnimation(AnimAnim)
+
+
+local startTime = 0
+
+
+Anim:Play()
+
+Anim:AdjustSpeed(1)
+
+Anim.TimePosition = startTime
+
+Anim:AdjustSpeed(2)
+
+local sound = Instance.new("Sound")
+sound.SoundId = "rbxassetid://18427761019" -- ur sound id
+sound.Volume = 5
+sound.Parent = workspace
+sound:Play()
+
+local vfx = game.ReplicatedStorage.Resources.KJEffects["launchup"].launchything:Clone()
+vfx.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(vfx:GetChildren()) do
+        if child:IsA("ParticleEmitter") then
+child:Emit(3)
+        end
+    end
+
+    end
+
+end
+
+--[[END OF MOVE 2 ANIM]]
+
+--[[Move 3]]
+
+
+humanoid.AnimationPlayed:Connect(onAnimationPlayed)
+
+
+local animationId = 10471336737
+
+
+local player = game.Players.LocalPlayer
+
+local character = player.Character or player.CharacterAdded:Wait()
+
+local humanoid = character:WaitForChild("Humanoid")
+
+
+local function onAnimationPlayed(animationTrack)
+
+    if animationTrack.Animation.AnimationId == "rbxassetid://" .. animationId then
+
+
+local p = game.Players.LocalPlayer
+
+local Humanoid = p.Character:WaitForChild("Humanoid")
+
+
+for _, animTrack in pairs(Humanoid:GetPlayingAnimationTracks()) do
+
+    animTrack:Stop()
+
+end
+
+
+local AnimAnim = Instance.new("Animation")
+
+AnimAnim.AnimationId = "rbxassetid://13556985475"
+
+local Anim = Humanoid:LoadAnimation(AnimAnim)
+
+
+local startTime = 0.3
+
+
+Anim:Play()
+
+Anim:AdjustSpeed(0)
+
+Anim.TimePosition = startTime
+
+Anim:AdjustSpeed(0.8)
+
+local sound = Instance.new("Sound")
+sound.SoundId = "rbxassetid://92905430475237" -- ur sound id
+sound.Volume = 5
+sound.Parent = workspace
+sound:Play()
+
+
+
+local vfx = game.ReplicatedStorage.Resources.SunsetEffects["On"].Blast:Clone()
+vfx.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(vfx:GetChildren()) do
+        if child:IsA("ParticleEmitter") then
+child:Emit(3)
+        end
+    end
+wait(0.4)
+
+vfx:destroy()
+
+
+delay(1.8, function()
+
+    Anim:Stop()
+
+end)
+
+
+    end
+
+end
+
+--[[END OF MOVE 3 ANIM]]
+
+--[[Move 4]]
+
+
+humanoid.AnimationPlayed:Connect(onAnimationPlayed)
+
+
+local animationId = 12510170988
+
+
+local player = game.Players.LocalPlayer
+
+local character = player.Character or player.CharacterAdded:Wait()
+
+local humanoid = character:WaitForChild("Humanoid")
+
+
+local function onAnimationPlayed(animationTrack)
+
+    if animationTrack.Animation.AnimationId == "rbxassetid://" .. animationId then
+
+local p = game.Players.LocalPlayer
+
+local Humanoid = p.Character:WaitForChild("Humanoid")
+
+
+for _, animTrack in pairs(Humanoid:GetPlayingAnimationTracks()) do
+
+    animTrack:Stop()
+
+end
+
+
+local AnimAnim = Instance.new("Animation")
+
+AnimAnim.AnimationId = "rbxassetid://13501296372"
+
+local Anim = Humanoid:LoadAnimation(AnimAnim)
+
+
+local startTime = 0
+
+
+Anim:Play()
+
+Anim:AdjustSpeed(0)
+
+Anim.TimePosition = startTime
+
+Anim:AdjustSpeed(0.8)
+
+local sound = Instance.new("Sound")
+sound.SoundId = "rbxassetid://18691618631" -- ur sound id
+sound.Volume = 5
+sound.Parent = workspace
+sound:Play()
+
+wait(0.5)
+
+local sound = Instance.new("Sound")
+sound.SoundId = "rbxassetid://18505840350" -- ur sound id
+sound.Volume = 5
+sound.Parent = workspace
+sound:Play()
+
+local vfx = game.ReplicatedStorage.Resources.KJEffects["ColateralImapctTest"].HitTwo:Clone()
+vfx.Parent = game.Players.LocalPlayer.Character["HumanoidRootPart"]
+    for _, child in ipairs(vfx:GetChildren()) do
+        if child:IsA("ParticleEmitter") then
+child:Emit(3)
+        end
+    end
+
+
+    end
+
+end
+
+--[[END OF MOVE 4 ANIM]]
+
+--[[Wall combo]]
+
+humanoid.AnimationPlayed:Connect(onAnimationPlayed)
+
+local animationId = 15955393872
+
+
+local player = game.Players.LocalPlayer
+
+local character = player.Character or player.CharacterAdded:Wait()
+
+local humanoid = character:WaitForChild("Humanoid")
+
+
+local function onAnimationPlayed(animationTrack)
+
+    if animationTrack.Animation.AnimationId == "rbxassetid://" .. animationId then
+
+local p = game.Players.LocalPlayer
+
+local Humanoid = p.Character:WaitForChild("Humanoid")
+
+
+for _, animTrack in pairs(Humanoid:GetPlayingAnimationTracks()) do
+
+    animTrack:Stop()
+
+end
+
+
+local AnimAnim = Instance.new("Animation")
+
+AnimAnim.AnimationId = "rbxassetid://15310973900"
+
+local Anim = Humanoid:LoadAnimation(AnimAnim)
+
+
+local startTime = 0.05
+
+
+Anim:Play()
+
+Anim:AdjustSpeed(0)
+
+Anim.TimePosition = startTime
+
+Anim:AdjustSpeed(2.8)
+
+
+    end
+
+end
+
+--[[END OF WALL COMBO ANIM]]
+
+--[[Ult Activation]]
+
+humanoid.AnimationPlayed:Connect(onAnimationPlayed)
+
+
+local animationId = 12447707844
+
+
+local player = game.Players.LocalPlayer
+
+local character = player.Character or player.CharacterAdded:Wait()
+
+local humanoid = character:WaitForChild("Humanoid")
+
+
+local function onAnimationPlayed(animationTrack)
+
+    if animationTrack.Animation.AnimationId == "rbxassetid://" .. animationId then
+
+local p = game.Players.LocalPlayer
+
+local Humanoid = p.Character:WaitForChild("Humanoid")
+
+
+for _, animTrack in pairs(Humanoid:GetPlayingAnimationTracks()) do
+
+    animTrack:Stop()
+
+end
+
+
+local AnimAnim = Instance.new("Animation")
+wait(0.1)
+
+AnimAnim.AnimationId = "rbxassetid://12772543293"
+
+
+local Anim = Humanoid:LoadAnimation(AnimAnim)
+
+
+local startTime = 0
+
+
+Anim:Play()
+
+Anim:AdjustSpeed(0)
+
+Anim.TimePosition = startTime
+
+Anim:AdjustSpeed(1)
+
+
+
+    end
+
+end
+--[[END OF ULT ACTIVATION ANIM]]
+
+--[[Dash]]
+
+humanoid.AnimationPlayed:Connect(onAnimationPlayed)
+
+
+local animationId = 10479335397
+
+
+local player = game.Players.LocalPlayer
+
+local character = player.Character or player.CharacterAdded:Wait()
+
+local humanoid = character:WaitForChild("Humanoid")
+
+
+local function onAnimationPlayed(animationTrack)
+
+    if animationTrack.Animation.AnimationId == "rbxassetid://" .. animationId then
+
+local p = game.Players.LocalPlayer
+
+local Humanoid = p.Character:WaitForChild("Humanoid")
+
+
+for _, animTrack in pairs(Humanoid:GetPlayingAnimationTracks()) do
+
+    animTrack:Stop()
+
+end
+
+
+local AnimAnim = Instance.new("Animation")
+
+AnimAnim.AnimationId = "rbxassetid://13639700348"
+
+local Anim = Humanoid:LoadAnimation(AnimAnim)
+
+
+local startTime = 0
+
+
+Anim:Play()
+
+Anim:AdjustSpeed(0)
+
+Anim.TimePosition = startTime
+
+Anim:AdjustSpeed(1.6)
+
+
+delay(1.8, function()
+
+    Anim:Stop()
+
+end)
+
+
+    end
+
+end
+
+--[[END OF DASH ANIM]]
+
+--[[Uppercut]]
+humanoid.AnimationPlayed:Connect(onAnimationPlayed)
+
+
+local animationId = 10503381238
+
+
+local player = game.Players.LocalPlayer
+
+local character = player.Character or player.CharacterAdded:Wait()
+
+local humanoid = character:WaitForChild("Humanoid")
+
+
+local function onAnimationPlayed(animationTrack)
+
+    if animationTrack.Animation.AnimationId == "rbxassetid://" .. animationId then
+
+local p = game.Players.LocalPlayer
+
+local Humanoid = p.Character:WaitForChild("Humanoid")
+
+
+for _, animTrack in pairs(Humanoid:GetPlayingAnimationTracks()) do
+
+    animTrack:Stop()
+
+end
+
+
+local AnimAnim = Instance.new("Animation")
+
+AnimAnim.AnimationId = "rbxassetid://14900168720"
+
+local Anim = Humanoid:LoadAnimation(AnimAnim)
+
+
+local startTime = 1.3
+
+
+Anim:Play()
+
+Anim:AdjustSpeed(0)
+
+Anim.TimePosition = startTime
+
+Anim:AdjustSpeed(1.7)
+
+
+    end
+
+end
+
+--[[END OF UPPERCUT ANIM]]
+
+--[[Downslam]]
+
+humanoid.AnimationPlayed:Connect(onAnimationPlayed)
+
+
+local animationId = 10470104242
+
+
+local player = game.Players.LocalPlayer
+
+local character = player.Character or player.CharacterAdded:Wait()
+
+local humanoid = character:WaitForChild("Humanoid")
+
+
+local function onAnimationPlayed(animationTrack)
+
+    if animationTrack.Animation.AnimationId == "rbxassetid://" .. animationId then
+
+local p = game.Players.LocalPlayer
+
+local Humanoid = p.Character:WaitForChild("Humanoid")
+
+
+for _, animTrack in pairs(Humanoid:GetPlayingAnimationTracks()) do
+
+    animTrack:Stop()
+
+end
+
+
+local AnimAnim = Instance.new("Animation")
+
+AnimAnim.AnimationId = "rbxassetid://13876406148"
+
+local Anim = Humanoid:LoadAnimation(AnimAnim)
+
+
+local startTime = 0
+
+
+wait(0.2)
+
+Anim:Play()
+
+Anim:AdjustSpeed(0)
+
+Anim.TimePosition = startTime
+
+Anim:AdjustSpeed(3)
+
+
+    end
+
+end
+
+--[[END OF DOWNSLAM ANIM]]
+
+--[[Punch anims]]
+
+--punch vfx enabler/disabler
+local M1SwingVFX = true
+local HeavyPunch = false
+local BlackFlash = true
+local GreenSlash = false
+local ImpactActivated = false
+
+--m1 animation editor
+local Punch1 = "13491635433"
+local Punch2 = "15259161390"
+local Punch3 = "14001963401"
+local Punch4 = "13296577783"
+
+--sound enable/disable sound
+local ImpactSound = true
+local SwingSound = true
+
+--choose the sound ids/change them idfk
+local animationSounds = {
+    M1 = {
+        Swing = "8595974357",
+        Impact = "8595980577"
+    },
+    M2 = {
+        Swing = "8595984380",
+        Impact = "8595983255"
+    },
+    M3 = {
+        Swing = "8595983255",
+        Impact = "8595984380"
+    },
+    M4 = {
+        Swing = "8595977193",
+        Impact = "8595974357"
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--dont edit this shit unless you know what tf you doing
+
+local animationIDs = {
+    10469493270, 
+    10469630950, 
+    10469639222, 
+    10469643643  
+}
+
+local function playSound(soundId, parent)
+    local sound = Instance.new("Sound")
+    sound.SoundId = soundId
+    sound.Parent = parent
+    sound:Play()
+    game:GetService("Debris"):AddItem(sound, sound.TimeLength)
+end
+
+local function isHumanoidNearby(character)
+    local humanoidRootPart = character:FindFirstChild("HumanoidRootPart")
+    if not humanoidRootPart then return false end
+
+    local minDistance = 4.28
+    local regionSize = minDistance * 2
+    local region = Region3.new(
+        humanoidRootPart.Position - Vector3.new(regionSize, regionSize, regionSize),
+        humanoidRootPart.Position + Vector3.new(regionSize, regionSize, regionSize)
+    )
+
+    local parts = workspace:FindPartsInRegion3(region, nil, math.huge)
+    for _, part in ipairs(parts) do
+        if part:IsA("BasePart") and part.Name == "HumanoidRootPart" and part.Parent:FindFirstChildOfClass("Humanoid") then
+            if part.Parent == character then
+                continue
+            end
+
+            local distance = (humanoidRootPart.Position - part.Position).magnitude
+            if distance <= minDistance then
+                return true
+            end
+        end
+    end
+    return false
+end
+
+local function activateVFX()
+    local vfx
+    if HeavyPunch then
+        vfx = game.ReplicatedStorage.Resources.KJEffects["1and2"]["1and2"]:Clone()
+    elseif BlackFlash then
+        vfx = game.ReplicatedStorage.Resources.FiveSeasonsFX["CharFX"].ArmBurst:Clone()
+    elseif GreenSlash then
+        vfx = game.ReplicatedStorage.Resources.GreenLights["Final"].Part.Attachment:Clone()
+    end
+
+    if vfx then
+        local playerCharacter = game.Players.LocalPlayer.Character
+        vfx.Parent = playerCharacter:FindFirstChild("HumanoidRootPart")
+
+        if ImpactActivated then
+            if not isHumanoidNearby(playerCharacter) then
+                return
+            end
+        end
+
+        for _, child in ipairs(vfx:GetChildren()) do
+            if child:IsA("ParticleEmitter") then
+                child:Emit(20)
+            end
+        end
+    end
+end
+
+local function onAnimationPlayed(animationTrack)
+    local animationId = tonumber(animationTrack.Animation.AnimationId:match("%d+$"))
+    local animationName = ""
+    
+    for i, id in ipairs(animationIDs) do
+        if id == animationId then
+            animationName = "M" .. i
+            break
+        end
+    end
+    
+    if animationName ~= "" then
+        if M1SwingVFX then
+            activateVFX()
+        end
+        
+        local soundData = animationSounds[animationName]
+        if SwingSound and soundData and soundData.Swing then
+            playSound(soundData.Swing, game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart"))
+        end
+
+        if ImpactActivated and soundData and soundData.Impact then
+            if isHumanoidNearby(game.Players.LocalPlayer.Character) then
+                playSound(soundData.Impact, game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart"))
+            end
+        end
+    end
+end
+
+local player = game.Players.LocalPlayer
+local character = player.Character
+local humanoid = character and character:FindFirstChildOfClass("Humanoid")
+
+if humanoid then
+    humanoid.AnimationPlayed:Connect(onAnimationPlayed)
+end
+
+
+
+
+
+
+
+
+local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoid = character:WaitForChild("Humanoid")
+
+local animationIds = {
+    "10469493270"
+}
+
+local function stopAnimations()
+    for _, track in ipairs(humanoid:GetPlayingAnimationTracks()) do
+        if table.find(animationIds, track.Animation.AnimationId:match("%d+$")) then
+            track:Stop()
+        end
+    end
+end
+
+local function playNewAnimation1() --you can add code after the anim to make it so that it runs more than just a custom anim
+    local animation = Instance.new("Animation")
+    animation.AnimationId = "rbxassetid://" .. Punch1
+
+    local animationTrack = humanoid:LoadAnimation(animation)
+    animationTrack:Play()
+    animationTrack:AdjustSpeed(1)
+end
+
+local function onAnimationTrackStarted(track)
+    if table.find(animationIds, track.Animation.AnimationId:match("%d+$")) then
+        stopAnimations()
+        playNewAnimation1()
+    end
+end
+
+humanoid.AnimationPlayed:Connect(onAnimationTrackStarted)
+
+
+
+local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoid = character:WaitForChild("Humanoid")
+
+local animationIds = {
+    "10469630950"
+}
+
+local function stopAnimations()
+    for _, track in ipairs(humanoid:GetPlayingAnimationTracks()) do
+        if table.find(animationIds, track.Animation.AnimationId:match("%d+$")) then
+            track:Stop()
+        end
+    end
+end
+
+local function playNewAnimation2() --you can add code after the anim to make it so that it runs more than just a custom anim
+    local animation = Instance.new("Animation")
+    animation.AnimationId = "rbxassetid://" .. Punch2
+
+    local animationTrack = humanoid:LoadAnimation(animation)
+    animationTrack:Play()
+    animationTrack:AdjustSpeed(1)
+end
+
+local function onAnimationTrackStarted(track)
+    if table.find(animationIds, track.Animation.AnimationId:match("%d+$")) then
+        stopAnimations()
+        playNewAnimation2()
+    end
+end
+
+humanoid.AnimationPlayed:Connect(onAnimationTrackStarted)
+
+
+
+
+local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoid = character:WaitForChild("Humanoid")
+
+local animationIds = {
+    "10469639222"
+}
+
+local function stopAnimations()
+    for _, track in ipairs(humanoid:GetPlayingAnimationTracks()) do
+        if table.find(animationIds, track.Animation.AnimationId:match("%d+$")) then
+            track:Stop()
+        end
+    end
+end
+
+local function playNewAnimation3() --you can add code after the anim to make it so that it runs more than just a custom anim
+    local animation = Instance.new("Animation")
+    animation.AnimationId = "rbxassetid://" .. Punch3
+
+    local animationTrack = humanoid:LoadAnimation(animation)
+    animationTrack:Play()
+    animationTrack:AdjustSpeed(1)
+end
+
+local function onAnimationTrackStarted(track)
+    if table.find(animationIds, track.Animation.AnimationId:match("%d+$")) then
+        stopAnimations()
+        playNewAnimation3()
+    end
+end
+
+humanoid.AnimationPlayed:Connect(onAnimationTrackStarted)
+
+
+
+
+local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoid = character:WaitForChild("Humanoid")
+
+local animationIds = {
+    "10469643643"
+}
+
+local function stopAnimations()
+    for _, track in ipairs(humanoid:GetPlayingAnimationTracks()) do
+        if table.find(animationIds, track.Animation.AnimationId:match("%d+$")) then
+            track:Stop()
+        end
+    end
+end
+
+local function playNewAnimation4() --you can add code after the anim to make it so that it runs more than just a custom anim
+    local animation = Instance.new("Animation")
+    animation.AnimationId = "rbxassetid://" .. Punch4
+
+    local animationTrack = humanoid:LoadAnimation(animation)
+    animationTrack:Play()
+    animationTrack:AdjustSpeed(1)
+end
+
+local function onAnimationTrackStarted(track)
+    if table.find(animationIds, track.Animation.AnimationId:match("%d+$")) then
+        stopAnimations()
+        playNewAnimation4()
+    end
+end
+
+humanoid.AnimationPlayed:Connect(onAnimationTrackStarted)
